@@ -15,9 +15,12 @@
     "url": "https://github.com/jasonkarns/doc-cookies/issues"
   },
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "prepublish": "browserify $npm_package_main --standalone docCookies --outfile docCookies.js"
+  },
   "files": [
-    "index.js"
+    "index.js",
+    "docCookies.js"
   ],
   "license": "GPL-3.0",
   "keywords": [
