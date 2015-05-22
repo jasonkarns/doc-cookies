@@ -1,6 +1,6 @@
 {
   "name": "mozilla-doc-cookies",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A little framework: a complete cookies reader/writer with full unicode support",
   "author": "Jason Karns <jason@karns.name> (http://jason.karns.name)",
   "contributors": [
@@ -15,8 +15,7 @@
     "url": "https://github.com/jasonkarns/doc-cookies/issues"
   },
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "license": "GPL-3.0",
   "keywords": [
     "mozilla",
