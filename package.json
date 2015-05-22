@@ -16,6 +16,9 @@
   },
   "main": "index.js",
   "scripts": {},
+  "files": [
+    "index.js"
+  ],
   "license": "GPL-3.0",
   "keywords": [
     "mozilla",
