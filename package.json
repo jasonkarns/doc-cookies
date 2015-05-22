@@ -24,5 +24,8 @@
     "mozilla",
     "cookie",
     "browser"
-  ]
+  ],
+  "devDependencies": {
+    "browserify": "^10.2.1"
+  }
 }
