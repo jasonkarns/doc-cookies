@@ -16,10 +16,9 @@
   },
   "main": "index.js",
   "scripts": {
-    "prepublish": "umd docCookies $npm_package_main docCookies.js"
+    "prepublish": "umd docCookies $npm_package_main $npm_package_files_0"
   },
   "files": [
-    "index.js",
     "docCookies.js"
   ],
   "license": "GPL-3.0",
