@@ -1,6 +1,6 @@
 {
   "name": "mozilla-doc-cookies",
-  "version": "1.0.2-1",
+  "version": "1.0.2-2",
   "description": "A little framework: a complete cookies reader/writer with full unicode support",
   "author": "Jason Karns <jason@karns.name> (http://jason.karns.name)",
   "contributors": [
