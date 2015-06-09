@@ -19,7 +19,6 @@
     "prepublish": "umd docCookies $npm_package_main docCookies.js"
   },
   "files": [
-    "index.js",
     "docCookies.js"
   ],
   "license": "GPL-3.0",
