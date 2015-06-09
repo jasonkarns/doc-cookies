@@ -16,7 +16,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "prepublish": "browserify $npm_package_main --standalone docCookies --outfile docCookies.js"
+    "prepublish": "umd docCookies $npm_package_main docCookies.js"
   },
   "files": [
     "index.js",
@@ -29,6 +29,6 @@
     "browser"
   ],
   "devDependencies": {
-    "browserify": "^10.2.1"
+    "umd": "^3.0.1"
   }
 }
