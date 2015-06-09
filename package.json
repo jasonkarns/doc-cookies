@@ -29,7 +29,6 @@
     "browser"
   ],
   "devDependencies": {
-    "browserify": "^10.2.1",
     "umd": "^3.0.1"
   }
 }
