@@ -16,7 +16,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "prepublish": "umd docCookies $npm_package_main $npm_package_files_1"
+    "prepublish": "umd --commonJS docCookies $npm_package_main $npm_package_files_1"
   },
   "files": [
     "index.js",
